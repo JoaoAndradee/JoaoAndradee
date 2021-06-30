@@ -13,4 +13,4 @@
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-marczewski-andrade-637174187/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-marczewski-andrade-637174187/)
-![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/MarczewskiJoao)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/MarczewskiJoao)](https://twitter.com/MarczewskiJoao) 
