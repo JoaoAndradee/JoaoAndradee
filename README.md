@@ -81,6 +81,6 @@ module.exports = {
   lastName: 'Marczewski Andrade',
   age: 28,
   role: 'Full Stack Developer',
-  passionate: ['My wife and cats', 'codding', 'chellenges', 'games']
+  passionate: ['My wife and cats', 'code', 'challenges', 'games']
 }
 ```
